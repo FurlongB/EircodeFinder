@@ -1,0 +1,18 @@
+.Icon{
+    padding: 6px;
+    height: 100%;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+.Icon img{
+    height:100%;
+}
+
+@media (max-width: 450px) {
+    .Icon {
+        padding: 4px;
+        height: 60%;
+    }
+}
